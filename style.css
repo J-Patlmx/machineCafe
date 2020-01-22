@@ -2,13 +2,34 @@ body {
     background-color: brown;
     color: whitesmoke;
 }
+
 h1 {
     padding-top: 20%;
     padding-bottom: 20%;
     text-align: center;
 }
+
 p {
     color: bisque;
     font-size: 1em;
     text-align: center;
+}
+
+.link {
+    color: black;
+    border: 2px solid black;
+    padding: 2px 2px 2px 2px;
+    font-size: 25px;
+    background-color: grey;
+    align-items: center;
+}
+
+#cafe {
+    position: relative;
+    left: 24%;
+    margin-top: -15%;
+}
+
+span {
+    margin: 10px;
 }
