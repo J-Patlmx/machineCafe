@@ -1,0 +1,14 @@
+body {
+    background-color: brown;
+    color: whitesmoke;
+}
+h1 {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    text-align: center;
+}
+p {
+    color: bisque;
+    font-size: 1em;
+    text-align: center;
+}
